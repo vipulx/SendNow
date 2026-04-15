@@ -103,7 +103,7 @@ SendNow/
 
 1. Clone Repository
 
-git clone https://github.com/yourusername/sendnow.git
+git clone https://github.com/vipulx/sendnow.git
 cd sendnow
 
 2. Install Dependencies
